@@ -1,6 +1,6 @@
 # Dharanee 
-# Portfolio
+# My Portfolio
 
 ## Python - Advance Topics
 
-1. Decorators
+Decorators- [Checkout my upcoming blog on decorators](https://medium.com/@dharanee1598)
