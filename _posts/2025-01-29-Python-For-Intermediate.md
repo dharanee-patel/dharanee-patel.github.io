@@ -1,27 +1,27 @@
 Welcome to Python World! 
 
-I will be sharing understanding of different topics in Python. Below are the topics with which I am planning to start.
+I will be sharing my understanding of different topics in Python.
 
-## Generators
+### Generators
 
 Checkout my upcoming blog on decorators
 
 [![](/img/medium.png)](https://medium.com/@dharanee1598)
 
-## Decorators
+### Decorators
   
 Checkout my upcoming blog on generators
 
 [![](/img/medium.png)](https://medium.com/@dharanee1598)
 
-## GIL and Multithreaded Programming
+### GIL and Multithreaded Programming
 
 Coming soon
 
-## Garbag Collection Mechanism
+### Garbag Collection Mechanism
 
 Coming soon
 
-## Asynchronous Programming
+### Asynchronous Programming
 
 Coming soon
